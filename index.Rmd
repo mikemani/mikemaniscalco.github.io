@@ -17,15 +17,15 @@ site: distill::distill_website
 
 ## About 
  
-I am a PhD candidate studying  ________at the University of California, Santa Barbara. 
+I am a PhD candidate studying Marine Science at the University of California, Santa Barbara. Working with [Mark Brzezinski]("https://msi.ucsb.edu/people/faculty/mark-brzezinski") and [Kimberlee Thamatrakoln]("https://marine.rutgers.edu/team/kim-thamatrakoln/") to relate community biogeochemistry and phytoplankon physiology to 'Omics measurements primarily along the California coast.
 
 ***
 
 ## Research interests
 
-Applied Methods | `Mixture Models` | Structural Equation Modeling  <br />
+Microbial Ecology | `Bioinformatics` | Molecular Biology  <br />
 Data Science | `R` | Reproducibility <br />
-Education | `Special Education` | Autism 
+Marine Science | `Science Education` |  Biogeochemistry
 
 ***
 
