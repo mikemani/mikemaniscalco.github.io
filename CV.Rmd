@@ -1,7 +1,5 @@
 ---
 title: "Curriculum Vitae"
-author: "Michael Maniscalco"
-date: "2/4/2022"
 output: html_document
 ---
 
@@ -9,7 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = F)
 ```
 
-#### Curriculum Vitae
 [Download](docs/2022_Michael_Maniscalco_CVweb.pdf)
 
 ```{r pdf viewer}

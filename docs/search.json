@@ -9,6 +9,13 @@
       "last_modified": "2022-02-03T11:40:17-08:00"
     },
     {
+      "path": "CV.html",
+      "title": "Curriculum Vitae",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n\n\nMy Website\n\n\nHome\nAbout\nPublications\nCurriculum Vitae\n☰\n\n\n  \n    \n      \n        \n        \n        \n      \n      \n    \n    \n      \n  Home\n\n\n  About\n\n\n  Publications\n\n\n  Curriculum Vitae\n\n      \n  \n\n\n\n\n\n\nCurriculum Vitae\n\n\n\n\nDownload\n\n\n\n\n\n\n\n\n\n\n\n\n\n// add bootstrap table styles to pandoc tables\nfunction bootstrapStylePandocTables() {\n  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');\n}\n$(document).ready(function () {\n  bootstrapStylePandocTables();\n});\n\n\n\n$(document).ready(function () {\n  window.buildTabsets(\"TOC\");\n});\n\n$(document).ready(function () {\n  $('.tabset-dropdown > .nav-tabs > li').click(function () {\n    $(this).parent().toggleClass('nav-tabs-open');\n  });\n});\n\n  (function () {\n    var script = document.createElement(\"script\");\n    script.type = \"text/javascript\";\n    script.src  = \"https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\";\n    document.getElementsByTagName(\"head\")[0].appendChild(script);\n  })();\n",
+      "last_modified": "2022-02-04T11:40:13-08:00"
+    },
+    {
       "path": "index.html",
       "title": "Michael Maniscalco",
       "description": "Welcome to the website. I hope you enjoy it!\n",
