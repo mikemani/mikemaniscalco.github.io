@@ -1,5 +1,6 @@
 ---
 title: "Stearns Wharf Harmful Algal Bloom Blog"
+description: "Weekly updates about harmful algal bloom (HAB) monitoring from Stearns Wharf as part of the Southern California Ocean Observing System (SCCOOS)"
 ---
 
 
