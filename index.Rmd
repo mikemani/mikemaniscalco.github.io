@@ -1,18 +1,31 @@
 ---
 title: "Michael Maniscalco"
+image: "cv_headshot.jpeg"
 description: |
   Welcome to the website. I hope you enjoy it!
+links:
+  - label: Email
+    url: "mailto:mmaniscalco@ucsb.edu"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/michael-maniscalco-5253b135"
+  - label: GitHub
+    url: "https://github.com/mikemani"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+## About 
+ 
+I am a PhD candidate studying  ________at the University of California, Santa Barbara. 
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+***
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+## Research interests
 
-```
+Applied Methods | `Mixture Models` | Structural Equation Modeling  <br />
+Data Science | `R` | Reproducibility <br />
+Education | `Special Education` | Autism 
+
+***
 
