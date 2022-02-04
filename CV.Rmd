@@ -8,6 +8,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Download](2022_Michael_Maniscalco_CV_web.pdf)
 
-```{r pdf viewer}
+```{r pdf_viewer out.height = "460px", out.width='800px', echo=F}
 knitr::include_graphics("2022_Michael_Maniscalco_CV_web.pdf")
 ```
