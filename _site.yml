@@ -1,5 +1,5 @@
 name: "mikemaniscalco.github.io"
-title: "My Website"
+title: "Michael Maniscalco"
 theme: theme.css
 description: |
   Michael Maniscalco
@@ -10,6 +10,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Santa Barbara Harmful Algal Blooms"
+      href: SW_habs.html
     - text: "Publications"
       href: publications.html
     - text: "Curriculum Vitae"

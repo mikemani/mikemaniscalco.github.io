@@ -1,6 +1,5 @@
 ---
-title: "Publications"
-description: "list of publications"
+title: "List of publications"
 ---
 
 ```{r setup, include=FALSE}
