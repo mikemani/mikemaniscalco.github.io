@@ -6,8 +6,8 @@ title: "Curriculum Vitae"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-[Download](docs/2022_Michael_Maniscalco_CVweb.pdf)
+[Download](docs/2022_Michael_Maniscalco_CV_web.pdf)
 
 ```{r pdf viewer}
-knitr::include_graphics("docs/2022_Michael_Maniscalco_CVweb.pdf")
+knitr::include_graphics("2022_Michael_Maniscalco_CV_web.pdf")
 ```
