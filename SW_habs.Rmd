@@ -1,9 +1,13 @@
 ---
-title: "Stearns Wharf Harmful Algal Bloom Blog"
+title: "Stearns Wharf Harmful Algal Bloom Monitoring"
 ---
 
+### Stearns Wharf, Santa Barbara Harmful Algal Bloom Monitoring
+In addition to my primary research I perform weekly plankton sampling at Stearns Wharf in Santa Barbara as part of the Southern California Coastal Ocean Observation System <a href="https://sccoos.org/">(SCCOOS)</a> harmful algal bloom monitoring alert program <a href="https://sccoos.org/harmful-algal-bloom/#Application">(HABMAP)</a>. This serves both the local and broader community in helping to anticipate, 
+identify, and respond to the presence of large amounts of harmful algal species in the water. These harmful algal blooms or (HABs) can produce toxins that accumulate in larger and larger proportions as they move up the food chain from shellfish to birds or marine mammals.  A large persistent HAB in 2017 has been linked to increased marine mammal strandings all along the Pacific coast.
 
-
+***
+## Stearns Wharf HAB data visualization
 <html>
 <head><title>Shiny App Iframe</title></head>
 <body>
@@ -12,3 +16,10 @@ title: "Stearns Wharf Harmful Algal Bloom Blog"
 </html>
 
 <!-- "Weekly updates about harmful algal bloom (HAB) monitoring from Stearns Wharf as part of the Southern California Ocean Observing System (SCCOOS)" -->
+
+Note that the fluorescence based chlorophyll measurements carry a distinct biofouling signature over intermediate periods of time.
+
+***
+#### Data availability
+ All data from Stearns Wharf as well as other shore station is available through the NOAA <a href="https://erddap.sccoos.org/erddap/tabledap/index.html?page=1&itemsPerPage=1000">ERDDAP portal</a>
+ 

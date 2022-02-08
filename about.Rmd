@@ -1,7 +1,5 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About Michael Maniscalco"
 ---
 
 ```{r setup, include=FALSE}
@@ -10,20 +8,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Research Interests
 
-I am a PhD candidate studying Marine Science at the University of California, Santa Barbara. Working with <a href="https://msi.ucsb.edu/people/faculty/mark-brzezinski">Mark Brzezinski</a> and <a href="https://marine.rutgers.edu/team/kim-thamatrakoln/">Kimberlee Thamatrakoln</a> to relate community biogeochemistry and phytoplankon physiology to 'Omics measurements primarily along the California coast. I am broadly interested in ways that new and publicly available microbial Omic data can be used to answer big questions about evolution, ecology, and biogeochemistry.
+I am a PhD candidate studying Marine Science at the University of California, Santa Barbara. Working with <a href="https://msi.ucsb.edu/people/faculty/mark-brzezinski">Mark Brzezinski</a> and <a href="https://marine.rutgers.edu/team/kim-thamatrakoln/">Kimberlee Thamatrakoln</a> to relate community biogeochemistry and phytoplankon physiology to 'Omics measurements primarily along the California coast. My graduate research has focused on how the presence or absence of abiotic factors such iron, nitrate, silicate, and light impact phytoplankton communities along the California coast. More broadly, I am interested in ways that new and publicly available microbial Omic data can be leveraged to answer big questions about evolution, ecology, and ocean processes.
 
-***
-
-### Stearns Wharf, Santa Barbara Harmful Algal Bloom Monitoring
-SCCOOS is a Science-Based Decision Support System
-We provide the scientific data and information necessary to address coastal issues.
-
-Southern California Coastal Ocean Observation System (SCCOOS) find out more information through their <a href="https://sccoos.org/">website</a>
 ***
 
 ## Short History
 
+I grew up in New Jersey, and received my B.S. in Biotechnology at Rutgers New Brunswick The State University of New Jersey. Despite having no background in marine or environmental science, my first introduction to academic laboratory based research was in a marine microbial molecular biology lab. I primarily used a single celled marine protist- Thalassiosira pseudonana- as a model organism without strong connections to marine themes, but a seed if interest was sown about the intriguing ways biomolecules like DNA, RNA, and protein could be used to understand not just physiology but larger earth processes.
 
+After I graduated I moved on to be a laboratory technician and manager at the primarily undergraduate serving institution-Rider University. As a technician my primary research focused on interrogating the expression pattern of a group of circadian clock genes in the haloarchaean Haloferax volcanii. I also had the opportunity to mentor a number of talented undergraduate students and help them develop their scientific acumen through their own independent research.  
 
-
+After 3 years I moved on and started my PhD at UCSB and at that time my advisors and I had a plan for how I would mostly apply low throughput techniques that i was familiar with such as qPCR and Western blotting to learn more about how diatoms create silica frustules, but as is the norm those initial plans didn’t end up panning out. Over the course of my PhD I have shifted to primarily using metatranscriptomic analysis, which has progressed from analyzing datasets prepared by collaborators, to de novo assembling, annotating, and analyzing 'Omic data myself and relating it to disparate metadata to making meaningul interpretations.  
 
