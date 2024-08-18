@@ -10,5 +10,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r pdf_viewer, out.height = "460px", out.width='800px', echo=F}
 
-knitr::include_graphics("2022_Michael_Maniscalco_CV_web.pdf")
+knitr::include_graphics("202408_Maniscalco_Resume.pdf")
 ```
