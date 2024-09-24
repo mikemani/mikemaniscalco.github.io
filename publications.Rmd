@@ -8,6 +8,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 *Maniscalco M*, Brzezinski MA, Thamatrakoln K. Diatom molecular strategies for acclimating to variable light in a dynamic coastal regime. In prep.
 
+*Maniscalco M*, Brzezinski MA, Thamatrakoln K. Diatom molecular strategies for acclimating to variable light in a dynamic coastal regime. In prep.
+
 *Maniscalco, M. A.*, Brzezinski M.A., Krause J.W., Thamatrakoln, K. 2023: “Decoupling silicon metabolism from carbon and nitrogen assimilation poises diatoms to exploit episodic nutrient pulses in a coastal upwelling system,” *Frontiers in Marine Science*, doi:10.3389/FMARS.2023.1291294. 
 
 Ladd TM, Catlett D, **Maniscalco M**, Kim SM, Kelly RL, John SG, Carlson CA, Iglesias-Rodríguez MD. 2023. Wildfire ash deposition fertilizes coastal marine ecosystems. *Proceedings of the Royal Society B*, doi:10.1098/RSPB.2023.1817
